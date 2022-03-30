@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20011252402",
+    "firebase_url": "https://pilotoboradevan.firebaseio.com",
+    "project_id": "pilotoboradevan",
+    "storage_bucket": "pilotoboradevan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20011252402:android:3686401f7ca8ac4bc367ab",
+        "android_client_info": {
+          "package_name": "com.ecttion.pilotoboradevan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20011252402-jo37dh0cd2b9p4nu1inf9mtk8onv4pb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PtJVbesDuBPJJK2gtsDvzlQ8XdEKwhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20011252402-jo37dh0cd2b9p4nu1inf9mtk8onv4pb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
